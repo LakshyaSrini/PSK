@@ -60,7 +60,11 @@ plt.show()
 # Output Waveform
 ![Screenshot 2025-04-19 160101](https://github.com/user-attachments/assets/1657017c-1aae-4169-aa90-9ed263b42ee7)
 
+
+# Hardware experiment output waveform.
+![WhatsApp Image 2025-05-04 at 2 11 18 PM](https://github.com/user-attachments/assets/f2624b7a-03fe-4d05-9a67-55b5a6731c19)
+
 # Results
 The experiment successfully demonstrated digital-analog conversion using PSK.
 
-# Hardware experiment output waveform.
+
